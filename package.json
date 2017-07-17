@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node.js, npm, express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaliaRiveraC/node-server.git"
+  },
+  "keywords": [
+    "node.js",
+    "server",
+    "npm",
+    "express"
+  ],
+  "author": "Amalia Rivera <amaliariveracastillejos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaliaRiveraC/node-server/issues"
+  },
+  "homepage": "https://github.com/AmaliaRiveraC/node-server#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.99.0"
+  }
+}
